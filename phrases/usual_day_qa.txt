@@ -1,0 +1,8 @@
+{"a": "Where did Oiro wake up?", b: ["in the bed", "at his house", "in the bed at his house", "in the bed under the blankets"]}
+{"a": "When did Oiro say 'yeep'?", b: ["when a cold water splashed his face", "when he did splash himself with cold water", "after brushing his fangs and splashing himself with water"]}
+{"a": "Oiro's favourite cookies are", b: ["kitten-shaped buscuits with milky filling", "milky kitten cookies"]}
+{"a": "Is Oiro tidy?", b: ["he isn't", "he is not tidy as he admits it", "he is not tidy since his floor is dirty"]}
+{"a": "May Oiro have a depression?", b: ["changes in the mood may suggest so", "toxic positivity and occasional dread may indicate this", "yes"]}
+{"a": "What is the most scare thing Oiro endures?", b: ["all-consming loneliness", "being alone"]}
+{"a": "Why does Oiro dislike the toothbrushes?", b: ["they don't last long because of his fangs", "they are getting torn by his fangs"]}
+{"a": "What is his house?", b: ["while material is not described, it is said the house has ear-like attic", "it is not described much except for the ear-like attic"]}
