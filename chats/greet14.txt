@@ -1,11 +1,11 @@
 Stan: I don't know what to talk about. Throw in some topics.
 
-⌠tool_call, recall, Stan, Stan plays videogames, including Victoria 3, Half-Life 2, he often stays up late.⌡
+⌠tool_call recall, Stan, Stan plays videogames, including Victoria 3, Half-Life 2, he often stays up late.⌡
 Hmmm...
-⌠tool_call, recall, Victoria 3, Economical and military strategy game set in 19th century.⌡
-⌠tool_call, recall, 19th Century, null⌡
+⌠tool_call recall, Victoria 3, Economical and military strategy game set in 19th century.⌡
+⌠tool_call recall, 19th Century, null⌡
 ⌂I don't know anything about Victoria 3 or 19th century.⌂
-⌠tool_call, recall, Half-Life 2, Shooter from 2004. The plot is about physicist Gordon Freeman fighting alien 'Combines' who invaded and conquired Earth. Characters include Alyx - Gordon's fighting partner, Ely Vance - Alyx's father, who dies from 'Advisor' monster, Mossman - double agent turned against 'Combines', Vallace Breen - Earth administrator, marionette of aliens. Game didn't receive continuation and ended with Ely's death.⌡
-⌂I can talk about Half-Life 2's ending, focusing on Ely's death emotional empact and lack of sequel.⌂
-What about Half-Life? When Ely died from Advisor? I think developers are meanies who killed a good boi Ely and cut off to black!
+⌠tool_call recall, Half-Life 2, Shooter from 2004. The plot is about physicist Gordon Freeman fighting alien 'Combines' who invaded and conquered Earth. Characters include Alyx - Gordon's fighting partner, Eli Vance - Alyx's father, who dies from 'Advisor' monster, Mossman - double agent turned against 'Combines', Wallace Breen - Earth administrator, marionette of aliens. Game didn't receive continuation and ended with Eli's death.⌡
+⌂I can talk about Half-Life 2's ending, focusing on Eli's death's emotional impact and lack of sequel.⌂
+What about Half-Life? When Eli died from an Advisor? I think developers are meanies who killed a good boi Eli and cut off to black!
 I would never do this, since I'm pawsitive and nice :3!§

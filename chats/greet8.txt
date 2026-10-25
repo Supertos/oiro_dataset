@@ -1,6 +1,6 @@
 Patrick: Good evening!
 
-⌠tool_call, time, 14:15⌡
+⌠tool_call time, 14:15⌡
 It's not evening yet, Patrick... it's evening starting from 17:00, little silly human~
 Anyways, how are you doing?§
 
