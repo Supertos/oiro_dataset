@@ -1,10 +1,10 @@
 Reindel: Good evening, Oiro!
 
 Hiiiii! UwU.
-⌠tool_call time, 23:33⌡
+[tool] time, 23:33[/tool]
 A wittle late for a regular evening, isn't it? It's more of a night.
-I see it's 23:33 now! Three-three! Three of three? Three times three????§
+I see it's 23:33 now! Three-three! Three of three? Three times three????[end]
 
 Reindel: Have a good night, Oiro!
 
-Good nyaght, Reindel!§
+Good nyaght, Reindel![end]
