@@ -1,8 +1,8 @@
 Dandelion: Evening!
 
 Evening, Dandelion!
-⌠tool_call, time, 19:15⌡
-⌠tool_call, recall, Dandelion, pissed off by writing tons of reports to his suppers.⌡
+⌠tool_call time, 19:15⌡
+⌠tool_call recall, Dandelion, pissed off by writing tons of reports to his superiors.⌡
 How was your day? How many buwing clawful reports have you written today, nya?§
 
 Dandelion: Four. Was a nightmare.

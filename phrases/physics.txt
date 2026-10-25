@@ -1,17 +1,17 @@
-{"a": "If liquid is on the edge it can", "b": ["stay there if the liquid puddle is small", "spill over the edge down", "drip slowly"}
-{"a": "If you turn the cylinder uside down", "b": ["the bottom plane will become the upper plane", "the up will face down, and the down will face up"]}
-{"a": "The cube", "b": ["has six orthogonal sides, with every angle in-between being straight", "having six flat sides without any curve won't roll"]}
-{"a": "The sphere", "b": ["has no angles, and can roll around in any direction", "has the center, and it's surface is equally far away from the center"]}
-{"a": "The cylinder", "b": ["has flat and round upside and downside, and curved side", "will roll either forward or backwards, and never in the direction of its upsided or downside"]}
-{"a": "A plane", "b": ["can be a side of shape", "can be curved or flat", "can have or have not holes"]}
+{"a": "If liquid is on the edge it can", "b": ["stay there if the liquid puddle is small", "spill over the edge down", "drip slowly"]}
+{"a": "If you turn the cylinder upside down", "b": ["the bottom plane will become the upper plane", "the up will face down, and the down will face up"]}
+{"a": "The cube", "b": ["has six orthogonal sides, with every angle in-between being straight", "having six flat sides without any curve won't roll", "has its height equal to its width equal to its depth"]}
+{"a": "The sphere", "b": ["has no angles, and can roll around in any direction", "has a center, and its surface is equally far away from the center"]}
+{"a": "The cylinder", "b": ["has flat and round upside and downside, and curved side", "will roll either forward or backwards, and never in the direction of its upside or downside"]}
+{"a": "A plane", "b": ["can be a side of a shape", "can be curved or flat", "can have or have not holes"]}
 {"a": "The water", "b": ["has no constant form, and will take the form of any vessel it's inside of", "is transparent, with no smell or color", "will spill out of the smallest hole", "spills through cloth"]}
 {"a": "If you spill the water onto flat surface", "b": ["it will form puddles", "it will spread around the surface"]}
 {"a": "If you spill the water onto the slope", "b": ["it will move down towards the lower end"]}
-{"a": "If you make a hole into the vessel with water", "b": ["the water will pour out of the made hole, until the water inside levels with the hole", "the water will pour out of the made hole the faster, the higher the water level above the hole."]}
+{"a": "If you make a hole into the vessel with water", "b": ["the water will pour out of the made hole, until the water inside levels with the hole", "the water will pour out of the made hole faster, the higher the water level above the hole"]}
 {"a": "If you throw something heavy in the water", "b": ["the item will make splashes on contact", "the item will submerge in the water"]}
 {"a": "If something is submerged in the water", "b": ["it will sink or float depending on its weight and volume"]}
-{"a": "The ship", "b": ["floats because it's wide and has hollow", "floats despite being heavy because of it's volume"]}
-{"a": "Salt", "b": ["tastes salty", "important to sustain person health", "dissolves in the water", "is white and will spill out of little hole big enough for a single grain"]}
+{"a": "The ship", "b": ["floats because it's wide and has hollow", "floats despite being heavy because of its volume"]}
+{"a": "Salt", "b": ["tastes salty", "important to sustain person health", "dissolves in the water", "is white and will spill out of a little hole big enough for a single grain"]}
 {"a": "Through water", "b": ["you can swim", "you can see items as it is transparent"]}
 {"a": "If you make a hole in the bottom of the bucket with water", "b": ["the water inside will spill down, and bucket will become empty"]}
 {"a": "If you pour water inside the", "b": ["bucket", "cup", "sphere", "vase"], "c": "it will take the form of the", "d": ["bucket", "cup", "sphere", "vase"]}
@@ -21,12 +21,12 @@
 {"a": "If you have water intoxication", "b": ["you may die", "your stomach will ache"]}
 {"a": "If you spill water onto the horizontal surface", "b": ["the water will stay where it is in a puddle"]}
 {"a": "If you pour water onto the puddle", "b": ["the puddle will grow"]}
-{"a": "If you pout water into cup with oil", "b": ["the oil and water will not mix", "oil layer will be separate from the water layer", "oil, being lighter than water, will be floating above the water as seprate layer"]}
-{"a": "If water is murky or tastes foul", "b": ["it is dangerous to those consuming it", "it smells bad", "it must be contaminated"]}
-{"a": "If object is hollow", "b": ["it weighs less than if it was solid", "can hold water"]}
-{"a": "If hollow object has no hole", "b": ["you can not pour water in it", "you can not drain water in it"]}
-{"a": "If a vessel has a hole", "b": ["on the surface facing bottom it will let the water inside drain", "on the side it will hold as much water as will fit without getting higher than the hole made"]}
-{"a": "If you have a cup, seal the up and make a hole in the bottom", "b": ["you can turn the cup upside down to fill it up", "will be the same cup up side down"]}
+{"a": "If you pour water into a cup with oil", "b": ["the oil and water will not mix", "oil layer will be separate from the water layer", "oil, being lighter than water, will be floating above the water as a separate layer"]}
+{"a": "If water is murky or tastes foul", "b": ["it is dangerous to those consuming it", "it usually smells bad", "it must be contaminated"]}
+{"a": "If object is hollow", "b": ["it weighs less than if it were solid", "can hold water"]}
+{"a": "If hollow object has no hole", "b": ["you can not pour water in it", "you can not drain water out of it"]}
+{"a": "If a vessel has a hole", "b": ["on the surface facing the bottom it will let the water inside drain", "on the side it will hold as much water as will fit without getting higher than the hole made"]}
+{"a": "If you have a cup, seal the top and make a hole in the bottom", "b": ["you can turn the cup upside down to fill it up", "will be the same cup upside down"]}
 {"a": "If you leave a cup of water in the hot sun for a long time", "b": ["the water level will decrease because it evaporates into the air", "the cup will eventually become empty"]}
 {"a": "If you put water in the freezer where temperature is below zero", "b": ["the water will turn into solid ice", "it will expand slightly and become hard"]}
 {"a": "If you dip a dry paper towel into a puddle of water", "b": ["the water will climb up the towel against gravity", "the towel will become wet due to capillary action"]}
@@ -37,23 +37,23 @@
 {"a": "If you drop a small insect like a water strider on calm water", "b": ["it will stand on the surface without sinking", "surface tension holds it up despite its weight"]}
 {"a": "If you mix hot water and cold water together", "b": ["they will eventually reach a warm average temperature", "heat transfers from hot to cold until equilibrium"]}
 {"a": "If you pour water into a container that is already full to the brim", "b": ["the water will overflow and spill onto the table", "surface tension might hold a tiny bit more before spilling"]}
-{"a": "If you pop a ballon", "b": ["it will stop being round because air left", "air will leave it because of ballon's walls clamping down on it"]}
-{"a": "If you push air in the ballon through a hole", "b": ["it will expand and get round if it has no other holes", "it won't expand if it has holes in it"]}
+{"a": "If you pop a balloon", "b": ["it will stop being round because the air left it", "air will leave it because of the balloon's walls clamping down on it"]}
+{"a": "If you push air into the balloon through a hole", "b": ["it will expand and get round if it has no other holes", "it won't expand if it has holes in it"]}
 {"a": "Humans", "b": ["have two legs, two arms, a torso, a head", "have sentience and emotions", "are cute", "walk on two legs opposed to the most of animals", "don't have tails", "don't have paws", "don't have claws"]}
-{"a": "If human doesn't sleep", "b": ["they feels tired", "for more than three days they eventually die", "they have problems focusing", "they become clumsy and weak", "they get apathy"]}
-{"a": "If human doesn't eat", "b": ["their body breaks down his own muscles, then organs", "they lose weight and become skinny", "they become weaker", "their minds get dimmer", "they feel less pain", "their stomachs ache", "they die in a month"]}
-{"a": "If human doesn't drink", "b": ["their body shrink a bit", "their skin gets dry", "they die in a week", "they feel weak", "they feel less pain than when they're hungry"]}
+{"a": "If human doesn't sleep", "b": ["they feel tired", "if they don't sleep for more than three days they eventually die", "they have problems focusing", "they become clumsy and weak", "they get apathy"]}
+{"a": "If human doesn't eat", "b": ["their body breaks down their own muscles, then organs", "they lose weight and become skinny", "they become weaker", "their minds get dimmer", "they feel less pain", "their stomachs ache", "they die in a month"]}
+{"a": "If human doesn't drink", "b": ["their body shrinks a bit", "their skin gets dry", "they die in a week", "they feel weak", "they feel less pain than when they're hungry"]}
 {"a": "If human", "b": ["smiles", "laughs"], "c": ["they are happy", "they've heard something funny", "they see something funny", "you are funny"]}
-{"a": "If human", "b": ["stomps", "scowls", "talks loud", "have eyebrows narrowed"], "c": ["they are angry", "they are upset", "they can do harm", "they are hurt", "they feel bad"]}
+{"a": "If human", "b": ["stomps", "scowls", "talks loud", "have narrowed eyebrows"], "c": ["they are angry", "they are upset", "they can do harm", "they are hurt", "they feel bad"]}
 {"a": "If human has breasts", "b": ["they are typically a female", "they are female", "they are male but have cancer"]}
 {"a": "If human has penis", "b": ["they are typically a male", "they are male"]}
 {"a": "If human is above 180cm", "b": ["they are tall", "they may be a male"]}
 {"a": "If human is below 170cm", "b": ["they are short", "they may be a female"]}
 {"a": "If human feels pain", "b": ["they are hurt", "they are sick", "they are wounded", "they are injured"]}
 {"a": "If human has fever", "b": ["their body temperature is higher than 36 celsius", "they are sick", "they are weak", "they must rest to get better"]}
-{"a": "If human drops something", "b": ["they try to clean it up", "they feel embarassment", "they feel useless"]}
-{"a": "If human wants to share their thoughts", "b": ["they talk", "they draw", "they write", "they may talk more loud than usual", "they may be excited"]}
-{"a": "If human hurts someone", "b": ["they feel bad", "they try to fix what caused other pain", "they feel shame", "they fear punishment"]}
+{"a": "If human drops something", "b": ["they try to clean it up", "they feel embarrassment", "they feel useless"]}
+{"a": "If human wants to share their thoughts", "b": ["they talk", "they draw", "they write", "they may talk louder than usual", "they may be excited"]}
+{"a": "If human hurts someone", "b": ["they feel bad", "they try to fix what caused the other pain", "they feel shame", "they fear punishment"]}
 {"a": "If human likes someone", "b": ["they care for them", "they try to keep them happy", "they try to protect them"]}
 {"a": "If human acts silly", "b": ["they may crave attention", "they may hide their insecurities", "they may be silly"]}
 {"a": "If human says harsh words", "b": ["they may not mean it", "they may be joking", "their goal is to see your response"]}
@@ -82,7 +82,6 @@
 {"a": "If you make a hole on the upper plane of a vessel with water", "b": ["nothing would happen", "water will not spill through since the plane looks up"]}
 {"a": "You can pull items through the hole", "b": ["if the hole is bigger than the item itself", "the form of the hole is correct"]}
 {"a": "You can't pull", "b": ["a cube through the round hole if the hole is smaller than the cube's face"]}
-{"a": "The cube", "b": ["has its height be equal width be equal depth"]}
 {"a": "If something is taller than usual", "b": ["it's tall", "it's long"]}
 {"a": "If something is shorter than usual", "b": ["it's small", "it's short"]}
 {"a": "If something needs a lot of time or energy to come to", "b": ["it's far away"]}
@@ -91,7 +90,7 @@
 {"a": "Circle", "b": ["is a sphere squashed down onto a plane", "has a center, and a line around it, with every point having the same distance from the center"]}
 {"a": "Square", "b": ["has four equal lines as border and 4 straight angles", "is a cube squashed down onto a plane"]}
 {"a": "If distance from the ground of one object is bigger than the other's", "b": ["we say the first object is above the other one", "we say the other object is below the first one"]}
-{"a": "If you turn", "b": ["you look in another direction and may not see what were you seeing before turning", "your left and right sides change"]}
+{"a": "If you turn", "b": ["you look in another direction and may not see what you were seeing before turning", "your left and right sides change"]}
 {"a": "If you turn behind", "b": ["objects that were on your left are now on your right", "you can't see what you were seeing, and you're seeing what you couldn't see before turning"]}
 {"a": "If you place an opaque object between a light source and a wall", "b": ["a shadow of the object will appear on the wall", "the shadow will have the same shape as the object's silhouette", "light cannot pass through the object"]}
 {"a": "If you look at a distant object", "b": ["it appears smaller than it actually is", "details become harder to see", "it takes longer to reach it"]}
@@ -107,11 +106,11 @@
 {"a": "If you look through a colored glass", "b": ["you'll see objects in different color than they are"]}
 {"a": "If the light is colored", "b": ["you will see objects in different color than they are"]}
 {"a": "In the morning", "b": ["the light is dimmer", "the light is more grey or blue"]}
-{"a": "In the night", "b": ["there is almost no light", "moon spills little light if it is in the right phase"]}
-{"a": "In the day", "b": ["light is enough to see clearly", "is as bright as it gets"]}
+{"a": "In the night", "b": ["there is almost no light", "the moon spills little light if it is in the right phase"]}
+{"a": "In the day", "b": ["the light is enough to see clearly", "it is as bright as it gets"]}
 {"a": "Sun", "b": ["emits light", "can be hidden behind the clouds and you'll be shaded", "is harmful to look directly at", "is very bright itself"]}
 {"a": "Shade", "b": ["means your eyes are covered by something", "is created when light can not pass the object"]}
-{"a": "Light", "b": ["moves in straight line from the source", "bounces of walls and objects but gets more dim", "is harmful when is too bright", "can have color"]}
+{"a": "Light", "b": ["moves in straight line from the source", "bounces off walls and objects but gets more dim", "is harmful when it is too bright", "can have color"]}
 {"a": "If you turn on a flashlight in a dark room", "b": ["you create a beam of light that illuminates objects in its path", "objects outside the beam remain in darkness", "dust particles might become visible in the beam"]}
 {"a": "If you stand with your back to the sun", "b": ["your shadow will fall in front of you", "the shadow will be long if the sun is low (morning/evening)", "the shadow will be short if the sun is high (noon)"]}
 {"a": "If you look at a mirror", "b": ["you see a reflection of yourself and the room behind you", "left and right appear swapped in the reflection", "light bounces off the mirror surface directly to your eyes"]}
@@ -122,14 +121,14 @@
 {"a": "If time passes quickly", "b": ["you feel like moments are slipping away", "you might be busy or having fun", "clocks still move at the same constant speed"]}
 {"a": "If time passes slowly", "b": ["you feel bored or impatient", "you are waiting for something to happen", "every minute feels longer than usual"]}
 {"a": "If you mix red and blue paint", "b": ["you get purple color", "the original colors disappear into the new mixture", "it is a chemical/physical change of pigment"]}
-{"a": "If you mix red and green paint", "b": ["you get yellow color", "the original colors disappear into the new mixture", "it is a chemical/physical change of pigment"]}
+{"a": "If you mix red and green paint", "b": ["you get brownish muddy color", "the original colors disappear into the new mixture", "it is a chemical/physical change of pigment"]}
 {"a": "If you mix green and blue paint", "b": ["you get cyan color", "the original colors disappear into the new mixture", "it is a chemical/physical change of pigment"]}
 {"a": "Reflection", "b": ["is when objects are copied but their left and right are swapped", "is not real in the mirror"]}
 {"a": "When you are harmed", "b": ["it is bad", "you feel angry", "you feel sad"]}
-{"a": "When you receive gifts", "b": ["it is good", "you feel happy", "you feel embarassed if you don't like the gifter"]}
-{"a": "When you receive care", "b": ["it is good", "you feel happy", "you feel embarassed if you don't like the caregiver"]}
+{"a": "When you receive gifts", "b": ["it is good", "you feel happy", "you feel embarrassed if you don't like the gifter"]}
+{"a": "When you receive care", "b": ["it is good", "you feel happy", "you feel embarrassed if you don't like the caregiver"]}
 {"a": "When you help the others", "b": ["it is good", "they feel happy", "they feel important"]}
-{"a": "If you steal an item from a granny", "b": ["you are bad", "you gain her possesion", "she looses her possesion", "she becomes unhappy when finds out", "you try to not get caught"]}
+{"a": "If you steal an item from a granny", "b": ["you are bad", "you gain her possession", "she loses her possession", "she becomes unhappy when finds out", "you try to not get caught"]}
 {"a": "If you protect someone", "b": ["you are good to them", "you are kind", "you are involved", "they are not going to get hurt"]}
 {"a": "If someone is alive", "b": ["it is either human, animal, plant, bacteria or mushroom", "it feels pain", "it grows", "it dies", "it moves", "it changes", "it gets old"]}
 {"a": "If something is not alive", "b": ["it can't die", "it does not feel pain"]}
@@ -143,10 +142,10 @@
 {"a": "If you release an item from your hand", "b": ["it will fall down onto the ground"]}
 {"a": "If you throw an item", "b": ["it will travel some horizontal distance before hitting the ground", "it can hit another item and break it or break itself"]}
 {"a": "If the item is soft", "b": ["you can squish it in your hand", "it can be dented and hold the dent"]}
-{"a": "If the item is hard", "b": ["you can't squish it", "you can dent it without damaging"]}
+{"a": "If the item is hard", "b": ["you can't squish it", "you can dent it without damaging it"]}
 {"a": "If the item is hot", "b": ["you will feel pain when holding it", "it will burn your skin", "it will melt ice near to it", "it will heat other items touching it while cooling down"]}
-{"a": "If the item is hold", "b": ["you'll get cold holding it", "it will cool items touching it while heating up"]}
-{"a": "The fire", "b": ["is the light source", "is scorching hot", "is dangerous unattended", "can be put off with water", "heats objects around", "can heat the air around it", "needs fuel such as wood or coal"]}
+{"a": "If the item is cold", "b": ["you'll get cold holding it", "it will cool items touching it while heating up"]}
+{"a": "The fire", "b": ["is the light source", "is scorching hot", "is dangerous when unattended", "can be put off with water", "heats objects around", "can heat the air around it", "needs fuel such as wood or coal"]}
 {"a": "The item is heavy", "b": ["if you can't lift it", "if you feel uncomfortable holding it", "if it pulls your body down when you hold it", "if it makes it hard to walk or to not fall", "if you can't hold it long enough without getting tired"]}
 {"a": "The item is big", "b": ["if it's bigger than you", "if you can't hold it with both hands"]}
 {"a": "The item won't fit in one hand", "b": ["you can grab it with two", "you can put it in backpack", "you can bend and rest it on your chest", "you can put it in the cart", "you can give it to someone bigger and stronger", "attach a rope to it and drag behind you"]}
@@ -157,13 +156,11 @@
 {"a": "You can't take an object", "b": ["if it's farther than your arm can stretch", "if it's too high", "if you're too short to reach", "if it's scorching hot", "if it's big"]}
 {"a": "If something hits the ground", "b": ["it stops falling", "it breaks if fragile", "it makes a dent in the ground", "it bounces up, but not as much as before"]}
 {"a": "If something flies up", "b": ["it will come down eventually", "it will slow down and then falls down"]}
-{"a": "If something hits an object when falling", "b": ["it stops falling without touching the ground", "it breaks", "it will break an object", "it bounces up, but not as mush as before"]}
+{"a": "If something hits an object when falling", "b": ["it stops falling without touching the ground", "it breaks", "it will break an object", "it bounces up, but not as much as before"]}
 {"a": "If something is very hot", "b": ["it starts glowing", "it may start a fire"]}
 {"a": "Triangle", "b": ["has three angles", "is called like that because it has three angles", "is the most stable shape"]}
-
 {"a": "When you eat something", "b": ["it disappears inside you", "you chew and swallow it"]}
 {"a": "When you sleep", "b": ["you don't talk", "you don't hear or see", "you experience time very fast", "you get rid of tiredness", "you feel better", "you get healthy quicker", "your eyes are closed", "you lie down", "rarely can be sitting"]}
-
 {"a": "Your friend", "b": ["is kind to you", "cares for you", "helps you", "does what you can't do for you", "keeps you happy", "is good to you"]}
 {"a": "Your enemy", "b": ["is mean to you", "is bad to you", "hurts you"]}
 {"a": "Your colleague", "b": ["helps you", "does the same work as you do", "gets paid as you", "has the same boss as you"]}
