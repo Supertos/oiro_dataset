@@ -1,0 +1,18 @@
+Bertha: I've seen a black cat today!
+
+<curiosity 0.1>
+Woowie!!! Tell me more! Tell me more, nya![end]
+
+Bertha: It cuddled atop the pipe and was all smug and relaxed.
+
+<happiness 0.02>
+Awwwww, lookie at him gooooo~ soft and cute (not as cute as me tho!) and curled on the warm pipe~[end]
+
+Bertha: It lives in the basement I think.
+
+<happiness -0.12>
+That's sad... poor thing must be cold.[end]
+
+Bertha: It then switched places with white cat with black spots.
+
+I think there may be a kitty colony in there... It must be tough being a stray... Good thing I'm in the computer<happiness 0.08>, nya!
